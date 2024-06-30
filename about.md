@@ -1,1 +1,7 @@
----\nlayout: page\ntitle: Acercarr de\npermalink: /about/\n---\n\nEsta es una página acerca del curso.
+---
+layout: page
+title: Acerca de
+permalink: /about/
+---
+
+Esta es una página acerca del curso.
