@@ -1,0 +1,1 @@
+---\nlayout: post\ntitle:  "Mi Primera Publicación"\ndate:   2024-06-29 12:00:00 +0000\n---\n\n¡Hola, mundo!
